@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hammad Majid
 - 🌱 I’m currently learning Front-end development 
-- 📫 Contact: [Twitter](https://twitter.com/hammadmajid_4)
+- 📫 Contact me on [Twitter](https://twitter.com/hammadmajid_4)
