@@ -1,3 +1,7 @@
+---
+
 - 👋 Hi, I’m Hammad Majid
 - 🌱 I’m currently learning Front-end development 
-- 📫 Contact me on [Twitter](https://twitter.com/hammadmajid_4)
+- 📫 Contact me [here](https://contact-hammadmajid.netlify.app/)
+
+---
