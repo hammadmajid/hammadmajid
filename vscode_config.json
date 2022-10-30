@@ -1,0 +1,42 @@
+{
+  // language setting
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[c]": {
+    "editor.wordBasedSuggestions": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.semanticHighlighting.enabled": true,
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // Theme setting
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  // Editor setting
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorBlinking": "solid",
+  "editor.stickyScroll.enabled": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "security.workspace.trust.untrustedFiles": "prompt",
+  "window.menuBarVisibility": "compact",
+  "workbench.startupEditor": "none",
+  // Extensions setting
+    // TailwindCSS
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.lint.cssConflict": "error",
+    "tailwindCSS.experimental.configFile": null,
+  // Terminal setting
+  "terminal.integrated.gpuAcceleration": "on",
+  // Git setting
+  "git.autofetch": true,
+  "git.confirmSync": false,
+} 
