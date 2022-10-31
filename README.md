@@ -1,22 +1,27 @@
 ---
 
-About
-
 > 👋 Hi, I’m Hammad Majid
->> 💻 Front-End Developer
 
 ---
 
-Technologies I am familier with
+Tech stack
+```bash
+> Javascript
+> Typescript
+> HTML
+> CSS
+> Python
+> Rust
+> C
 
-> Astro.js<br>
-> Svelte/SvelteKit<br>
+> Astro.js
+> Svelte/SvelteKit
+> Bootstrap
+> TailwindCSS
 
-> Bootstrap<br>
-> TailwindCSS<br>
-> Sass<br>
-> Less<br>
+> Sass
+> Less
 
-> Supabase<br>
+> Supabase
 
----
+```
