@@ -4,15 +4,14 @@
 
 ---
 
-Tech stack
-```bash
+Technologies _I_ use
+```shell
+> C++
 > Javascript
 > Typescript
 > HTML
 > CSS
 > Python
-> Rust
-> C
 
 > Astro.js
 > Svelte/SvelteKit
@@ -24,4 +23,7 @@ Tech stack
 
 > Supabase
 
+> Vim
+> VSCode
+> WSL
 ```
