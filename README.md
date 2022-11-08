@@ -1,29 +1,13 @@
 ---
+👋 Hi, I’m Hammad Majid
 
-> 👋 Hi, I’m Hammad Majid
+# Tech Stack
 
----
-
-Technologies _I_ use
-```shell
 > C++
-> Javascript
-> Typescript
-> HTML
-> CSS
+> Java
 > Python
-
-> Astro.js
-> Svelte/SvelteKit
-> Bootstrap
-> TailwindCSS
-
-> Sass
-> Less
-
-> Supabase
 
 > Vim
 > VSCode
 > WSL
-```
+---
