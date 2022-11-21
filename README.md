@@ -1,11 +1,15 @@
 # 👋 Hi, I’m Hammad Majid
-
+![A room full of modern techonologies, over simplyfied, minimalism](./hero.png)
 ## Technologies I use
 ### Languges
- - C++
- - Python
+```bash
+> C++
+> Python
+```
  
 ### Tools
- - WSL
- - Docker
- - Git
+```bash
+> WSL
+> Docker
+> Git
+```
