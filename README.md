@@ -1,13 +1,11 @@
----
-👋 Hi, I’m Hammad Majid
+# 👋 Hi, I’m Hammad Majid
 
-# Tech Stack
-
-> C++
-> Java
-> Python
-
-> Vim
-> VSCode
-> WSL
----
+## Technologies I use
+### Languges
+ - C++
+ - Python
+ 
+### Tools
+ - WSL
+ - Docker
+ - Git
