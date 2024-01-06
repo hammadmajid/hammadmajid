@@ -1,1 +1,3 @@
-**Hammad Majid** is a front-end developer who transforms design prototypes into interactive websites using the power of `code`. He enjoys exploring low-level programming as well. Hammad finds computers fascinating, from their ability to perform basic calculations to their incredible feats like capturing images of distant black holes. While he occasionally hangs out on Discord servers, Hammad's primary focus is on his coding work. If you appreciate his skills and would like to support him, you can contribute on his [Patreon](https://www.patreon.com/hammadmajid).
+```
+01100011 01101111 01100100 01100101 00100000 00100110 00100000 01100011 01101000 01100001 01101001
+```
